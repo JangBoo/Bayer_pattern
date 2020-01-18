@@ -8,8 +8,8 @@ Please install Juypter lab and import OpenCV and Matplotlib and Numpy
 ![original](https://github.com/JangBoo/Bayer_pattern/blob/master/crayons.jpg)
 
 #Mosaic
-https://github.com/JangBoo/Bayer_pattern/blob/master/crayons_mosaic.bmp
-#Original-mosaic Man
-https://github.com/JangBoo/Bayer_pattern/blob/master/origin-mosaic.bmp
+![Mosaic](https://github.com/JangBoo/Bayer_pattern/blob/master/crayons_mosaic.bmp)
+#Original-mosaic 
+![mosaic2](https://github.com/JangBoo/Bayer_pattern/blob/master/origin-mosaic.bmp)
 #after BillFreeman improvement
-https://github.com/JangBoo/Bayer_pattern/blob/master/afterbillfreeman.bmp
+![BillFreeman](https://github.com/JangBoo/Bayer_pattern/blob/master/afterbillfreeman.bmp)
