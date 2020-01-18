@@ -9,7 +9,12 @@ Please install Juypter lab and import OpenCV and Matplotlib and Numpy
 
 #Mosaic
 ![Mosaic](https://github.com/JangBoo/Bayer_pattern/blob/master/crayons_mosaic.bmp)
+
+
+
 #Original-mosaic 
 ![mosaic2](https://github.com/JangBoo/Bayer_pattern/blob/master/origin-mosaic.bmp)
-#after BillFreeman improvement
+
+
+#after BillFreeman 
 ![BillFreeman](https://github.com/JangBoo/Bayer_pattern/blob/master/afterbillfreeman.bmp)
